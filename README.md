@@ -9,8 +9,8 @@ Javascript, CSS, HTML, Font Awesome, Google Fonts.
 
  
 # Links
-* [[https://github.com/Vinyl77/Workday-Planner]
-* [https://vinyl77.github.io/Workday-Planner/]
+* [https://github.com/Vinyl77/Workday-Planner]
+* [https://vinyl77.github.io/Workday-Planner]
 
 
  
