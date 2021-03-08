@@ -4,9 +4,13 @@ This workday planner has the current time, with a running clock. Each time block
 # Technology 
 Javascript, CSS, HTML, Font Awesome, Google Fonts.
 
-# Application In Use
+ # Application In Use
 ![workday](assets/workday.gif)
 
+ 
 # Links
-*[https://github.com/Vinyl77/Workday-Planner]
-*[https://vinyl77.github.io/Workday-Planner/]
+* [[https://github.com/Vinyl77/Workday-Planner]
+* [https://vinyl77.github.io/Workday-Planner/]
+
+
+ 
