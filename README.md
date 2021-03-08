@@ -7,6 +7,6 @@ Javascript, CSS, HTML, Font Awesome, Google Fonts.
 ## Application In Use
 ![workday](assets/workday.gif)
 
-## Links
+# Links
 *[https://github.com/Vinyl77/Workday-Planner]
 *[https://vinyl77.github.io/Workday-Planner]
