@@ -8,12 +8,12 @@ $(document).ready(function(){
 
     $(".saveBtn").on("click", function(){
         // get nearby values.
-        console.log(this);
+        
         var text = $(this).siblings(".description").val();
         // the change from the html sibling attribute
         var time = $(this).parent().attr("id");
         // change from the parent html id attribute
-        console.log(text, time);
+        
         // set the items in the local storage
         localStorage.setItem(time, text);
     })
@@ -50,7 +50,7 @@ $(document).ready(function(){
     
         
             var hourBlock = parseInt($(this).attr("id").split("r")[1]);
-            console.log("compare this", currentHr, hourBlock);
+            
            
             //check IF time block is in past, present, or future
             if (currentHr > hourBlock){
